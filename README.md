@@ -11,4 +11,4 @@ A built in chat feature that can be used on any website, platform, desktop, and 
 ![picture](image1.png)
 
 # Future Development 
-In the future, I would use this template for websites that needs a chat featured included.
+In the future, I would use this template for websites/apps that needs a chat feature and make more live.
